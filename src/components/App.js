@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from "react";
 import UseMemo from "./UseMemo";
 import ReactMemo from "./ReactMemo";
 
@@ -29,6 +29,4 @@ const App = () => {
   );
 };
 
-export default App
-
-
+export default App;
